@@ -1,0 +1,7 @@
+C:\Paloma Plata\Fundamentos_Programaci-n\1.Var_constantes_tiposDatos_op\1.Var_constantes_tiposDatos_op\obj\Debug\1.Var_constantes_tiposDatos_op.csproj.AssemblyReference.cache
+C:\Paloma Plata\Fundamentos_Programaci-n\1.Var_constantes_tiposDatos_op\1.Var_constantes_tiposDatos_op\obj\Debug\1.Var_constantes_tiposDatos_op.csproj.CoreCompileInputs.cache
+C:\Paloma Plata\Fundamentos_Programaci-n\1.Var_constantes_tiposDatos_op\1.Var_constantes_tiposDatos_op\bin\Debug\1.Var_constantes_tiposDatos_op.exe.config
+C:\Paloma Plata\Fundamentos_Programaci-n\1.Var_constantes_tiposDatos_op\1.Var_constantes_tiposDatos_op\bin\Debug\1.Var_constantes_tiposDatos_op.exe
+C:\Paloma Plata\Fundamentos_Programaci-n\1.Var_constantes_tiposDatos_op\1.Var_constantes_tiposDatos_op\bin\Debug\1.Var_constantes_tiposDatos_op.pdb
+C:\Paloma Plata\Fundamentos_Programaci-n\1.Var_constantes_tiposDatos_op\1.Var_constantes_tiposDatos_op\obj\Debug\1.Var_constantes_tiposDatos_op.exe
+C:\Paloma Plata\Fundamentos_Programaci-n\1.Var_constantes_tiposDatos_op\1.Var_constantes_tiposDatos_op\obj\Debug\1.Var_constantes_tiposDatos_op.pdb
