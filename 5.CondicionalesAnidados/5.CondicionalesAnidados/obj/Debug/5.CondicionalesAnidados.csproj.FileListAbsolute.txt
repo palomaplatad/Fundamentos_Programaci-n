@@ -1,0 +1,7 @@
+C:\paloma\Fundamentos_Programaci-n\5.CondicionalesAnidados\5.CondicionalesAnidados\obj\Debug\5.CondicionalesAnidados.csproj.AssemblyReference.cache
+C:\paloma\Fundamentos_Programaci-n\5.CondicionalesAnidados\5.CondicionalesAnidados\obj\Debug\5.CondicionalesAnidados.csproj.CoreCompileInputs.cache
+C:\paloma\Fundamentos_Programaci-n\5.CondicionalesAnidados\5.CondicionalesAnidados\bin\Debug\5.CondicionalesAnidados.exe.config
+C:\paloma\Fundamentos_Programaci-n\5.CondicionalesAnidados\5.CondicionalesAnidados\bin\Debug\5.CondicionalesAnidados.exe
+C:\paloma\Fundamentos_Programaci-n\5.CondicionalesAnidados\5.CondicionalesAnidados\bin\Debug\5.CondicionalesAnidados.pdb
+C:\paloma\Fundamentos_Programaci-n\5.CondicionalesAnidados\5.CondicionalesAnidados\obj\Debug\5.CondicionalesAnidados.exe
+C:\paloma\Fundamentos_Programaci-n\5.CondicionalesAnidados\5.CondicionalesAnidados\obj\Debug\5.CondicionalesAnidados.pdb
