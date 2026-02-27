@@ -1,0 +1,7 @@
+C:\Paloma Plata\Fundamentos_Programaci-n\7.CondicionalesMultiplesOpTer\7.CondicionalesMultiplesOpTer\bin\Debug\7.CondicionalesMultiplesOpTer.exe.config
+C:\Paloma Plata\Fundamentos_Programaci-n\7.CondicionalesMultiplesOpTer\7.CondicionalesMultiplesOpTer\bin\Debug\7.CondicionalesMultiplesOpTer.exe
+C:\Paloma Plata\Fundamentos_Programaci-n\7.CondicionalesMultiplesOpTer\7.CondicionalesMultiplesOpTer\bin\Debug\7.CondicionalesMultiplesOpTer.pdb
+C:\Paloma Plata\Fundamentos_Programaci-n\7.CondicionalesMultiplesOpTer\7.CondicionalesMultiplesOpTer\obj\Debug\7.CondicionalesMultiplesOpTer.csproj.AssemblyReference.cache
+C:\Paloma Plata\Fundamentos_Programaci-n\7.CondicionalesMultiplesOpTer\7.CondicionalesMultiplesOpTer\obj\Debug\7.CondicionalesMultiplesOpTer.csproj.CoreCompileInputs.cache
+C:\Paloma Plata\Fundamentos_Programaci-n\7.CondicionalesMultiplesOpTer\7.CondicionalesMultiplesOpTer\obj\Debug\7.CondicionalesMultiplesOpTer.exe
+C:\Paloma Plata\Fundamentos_Programaci-n\7.CondicionalesMultiplesOpTer\7.CondicionalesMultiplesOpTer\obj\Debug\7.CondicionalesMultiplesOpTer.pdb
