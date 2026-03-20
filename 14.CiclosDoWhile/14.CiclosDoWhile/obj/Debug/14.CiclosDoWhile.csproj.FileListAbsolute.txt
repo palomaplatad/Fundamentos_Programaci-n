@@ -1,0 +1,7 @@
+C:\Paloma Plata\Fundamentos_Programaci-n\14.CiclosDoWhile\14.CiclosDoWhile\bin\Debug\14.CiclosDoWhile.exe.config
+C:\Paloma Plata\Fundamentos_Programaci-n\14.CiclosDoWhile\14.CiclosDoWhile\bin\Debug\14.CiclosDoWhile.exe
+C:\Paloma Plata\Fundamentos_Programaci-n\14.CiclosDoWhile\14.CiclosDoWhile\bin\Debug\14.CiclosDoWhile.pdb
+C:\Paloma Plata\Fundamentos_Programaci-n\14.CiclosDoWhile\14.CiclosDoWhile\obj\Debug\14.CiclosDoWhile.csproj.AssemblyReference.cache
+C:\Paloma Plata\Fundamentos_Programaci-n\14.CiclosDoWhile\14.CiclosDoWhile\obj\Debug\14.CiclosDoWhile.csproj.CoreCompileInputs.cache
+C:\Paloma Plata\Fundamentos_Programaci-n\14.CiclosDoWhile\14.CiclosDoWhile\obj\Debug\14.CiclosDoWhile.exe
+C:\Paloma Plata\Fundamentos_Programaci-n\14.CiclosDoWhile\14.CiclosDoWhile\obj\Debug\14.CiclosDoWhile.pdb
