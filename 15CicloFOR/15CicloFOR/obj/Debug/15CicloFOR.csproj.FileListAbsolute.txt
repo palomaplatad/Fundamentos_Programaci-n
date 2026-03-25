@@ -1,0 +1,7 @@
+C:\paloma\Fundamentos_Programaci-n\15CicloFOR\15CicloFOR\bin\Debug\15CicloFOR.exe.config
+C:\paloma\Fundamentos_Programaci-n\15CicloFOR\15CicloFOR\bin\Debug\15CicloFOR.exe
+C:\paloma\Fundamentos_Programaci-n\15CicloFOR\15CicloFOR\bin\Debug\15CicloFOR.pdb
+C:\paloma\Fundamentos_Programaci-n\15CicloFOR\15CicloFOR\obj\Debug\15CicloFOR.csproj.AssemblyReference.cache
+C:\paloma\Fundamentos_Programaci-n\15CicloFOR\15CicloFOR\obj\Debug\15CicloFOR.csproj.CoreCompileInputs.cache
+C:\paloma\Fundamentos_Programaci-n\15CicloFOR\15CicloFOR\obj\Debug\15CicloFOR.exe
+C:\paloma\Fundamentos_Programaci-n\15CicloFOR\15CicloFOR\obj\Debug\15CicloFOR.pdb
