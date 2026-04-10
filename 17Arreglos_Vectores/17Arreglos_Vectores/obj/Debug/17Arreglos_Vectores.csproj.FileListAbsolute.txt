@@ -1,0 +1,7 @@
+C:\Paloma Plata\Fundamentos_Programaci-n\17Arreglos_Vectores\17Arreglos_Vectores\bin\Debug\17Arreglos_Vectores.exe.config
+C:\Paloma Plata\Fundamentos_Programaci-n\17Arreglos_Vectores\17Arreglos_Vectores\bin\Debug\17Arreglos_Vectores.exe
+C:\Paloma Plata\Fundamentos_Programaci-n\17Arreglos_Vectores\17Arreglos_Vectores\bin\Debug\17Arreglos_Vectores.pdb
+C:\Paloma Plata\Fundamentos_Programaci-n\17Arreglos_Vectores\17Arreglos_Vectores\obj\Debug\17Arreglos_Vectores.csproj.AssemblyReference.cache
+C:\Paloma Plata\Fundamentos_Programaci-n\17Arreglos_Vectores\17Arreglos_Vectores\obj\Debug\17Arreglos_Vectores.csproj.CoreCompileInputs.cache
+C:\Paloma Plata\Fundamentos_Programaci-n\17Arreglos_Vectores\17Arreglos_Vectores\obj\Debug\17Arreglos_Vectores.exe
+C:\Paloma Plata\Fundamentos_Programaci-n\17Arreglos_Vectores\17Arreglos_Vectores\obj\Debug\17Arreglos_Vectores.pdb
