@@ -1,0 +1,7 @@
+C:\paloma\Fundamentos_Programaci-n\TallerVectores\TallerVectores\bin\Debug\TallerVectores.exe.config
+C:\paloma\Fundamentos_Programaci-n\TallerVectores\TallerVectores\bin\Debug\TallerVectores.exe
+C:\paloma\Fundamentos_Programaci-n\TallerVectores\TallerVectores\bin\Debug\TallerVectores.pdb
+C:\paloma\Fundamentos_Programaci-n\TallerVectores\TallerVectores\obj\Debug\TallerVectores.csproj.AssemblyReference.cache
+C:\paloma\Fundamentos_Programaci-n\TallerVectores\TallerVectores\obj\Debug\TallerVectores.csproj.CoreCompileInputs.cache
+C:\paloma\Fundamentos_Programaci-n\TallerVectores\TallerVectores\obj\Debug\TallerVectores.exe
+C:\paloma\Fundamentos_Programaci-n\TallerVectores\TallerVectores\obj\Debug\TallerVectores.pdb
