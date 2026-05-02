@@ -1,0 +1,15 @@
+C:\paloma\Fundamentos_Programaci-n\ParcialArreglos\ParcialArreglos\bin\Debug\net10.0\ParcialArreglos.exe
+C:\paloma\Fundamentos_Programaci-n\ParcialArreglos\ParcialArreglos\bin\Debug\net10.0\ParcialArreglos.deps.json
+C:\paloma\Fundamentos_Programaci-n\ParcialArreglos\ParcialArreglos\bin\Debug\net10.0\ParcialArreglos.runtimeconfig.json
+C:\paloma\Fundamentos_Programaci-n\ParcialArreglos\ParcialArreglos\bin\Debug\net10.0\ParcialArreglos.dll
+C:\paloma\Fundamentos_Programaci-n\ParcialArreglos\ParcialArreglos\bin\Debug\net10.0\ParcialArreglos.pdb
+C:\paloma\Fundamentos_Programaci-n\ParcialArreglos\ParcialArreglos\obj\Debug\net10.0\ParcialArreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\paloma\Fundamentos_Programaci-n\ParcialArreglos\ParcialArreglos\obj\Debug\net10.0\ParcialArreglos.AssemblyInfoInputs.cache
+C:\paloma\Fundamentos_Programaci-n\ParcialArreglos\ParcialArreglos\obj\Debug\net10.0\ParcialArreglos.AssemblyInfo.cs
+C:\paloma\Fundamentos_Programaci-n\ParcialArreglos\ParcialArreglos\obj\Debug\net10.0\ParcialArreglos.csproj.CoreCompileInputs.cache
+C:\paloma\Fundamentos_Programaci-n\ParcialArreglos\ParcialArreglos\obj\Debug\net10.0\ParcialArreglos.sourcelink.json
+C:\paloma\Fundamentos_Programaci-n\ParcialArreglos\ParcialArreglos\obj\Debug\net10.0\ParcialArreglos.dll
+C:\paloma\Fundamentos_Programaci-n\ParcialArreglos\ParcialArreglos\obj\Debug\net10.0\refint\ParcialArreglos.dll
+C:\paloma\Fundamentos_Programaci-n\ParcialArreglos\ParcialArreglos\obj\Debug\net10.0\ParcialArreglos.pdb
+C:\paloma\Fundamentos_Programaci-n\ParcialArreglos\ParcialArreglos\obj\Debug\net10.0\ParcialArreglos.genruntimeconfig.cache
+C:\paloma\Fundamentos_Programaci-n\ParcialArreglos\ParcialArreglos\obj\Debug\net10.0\ref\ParcialArreglos.dll
