@@ -1,0 +1,43 @@
+Prueba escritorio Parcial Condicionales 
+
+#1
+nombre: Clara
+años_trabajados: 3
+calificacion_actual : 0.4
+calificacion_anterior: 0.6
+
+calificacion_valida == true
+promedioCal= ((0.4+0.6)/2):0.5
+
+0<años_trabajados<=5 y 0.4<promedioCal<0.6
+ aumento=0.1
+
+Resultado:
+El trabajador Clara con calificación de 0.4 recibirá un aumento de 10%
+El valor de su aumento es de 250000(2500000*0.1) pesos
+
+#2 
+nombre: Fabián
+años_trabajados: 6
+calificacion_actual : 0.8
+calificacion_anterior: 0.6
+
+calificacion_valida == false
+Resultado:
+Calificación inválida 
+
+#3
+nombre: Gonzalo
+años_trabajados: 8
+calificacion_actual : 0
+calificacion_anterior: 0.4
+
+calificacion_valida == true
+promedioCal= ((0+0.4)/2):0.2
+
+años_trabajados<5 
+ aumento=0.3
+
+Resultado:
+El trabajador Clara con calificación de 0 recibirá un aumento de 30%
+El valor de su aumento es de 750000(2500000*0.3) pesos
